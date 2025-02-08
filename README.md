@@ -1,6 +1,6 @@
 ### Hi there, I'm Ahmed Amin! 👋
 
-🚀 **Frontend Developer | React.js Enthusiast | UI/UX Designer**
+🚀 **Software Engineer | Frontend Developer | React.js Enthusiast | UI/UX Designer**
 
 <p align="center">
   <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="50" height="50" alt="GitHub Octocat waving">
@@ -51,8 +51,8 @@ I'm a passionate frontend developer with expertise in **React.js, Redux Toolkit,
 
 ### 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-amin-a15981248/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://a-amiin.github.io/Portfolio-Template/)
 
 ---
 
