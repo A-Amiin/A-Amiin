@@ -59,4 +59,4 @@ I care deeply about intuitive design, clean code, and always seek out opportunit
 
 ---
 
-💡 *"Code is like humor(M). When you have to explain it, it’s bad."* – Cory House
+💡 *"Code is like humor(Meme). When you have to explain it, it’s bad."* – Cory House
